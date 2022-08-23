@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on openSource
-- 📫 How to reach me muhammadkhubaib182012@gmail.com
+- 📫 Reach me on muhammadkhubaib182012@gmail.com
