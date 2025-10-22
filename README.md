@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KhubaibMuhammad
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on openSource
-- 📫 Reach me on muhammadkhubaib182012@gmail.com
+- 🌱 I’m a AI Engineer
+- 📫 Reach me on mkhubaiib1@gmail.com
